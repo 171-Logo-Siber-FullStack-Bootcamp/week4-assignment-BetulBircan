@@ -1,4 +1,5 @@
 <template>
+<!-- Sidebar -->
     <div>
         <ul
             class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion"

@@ -1,4 +1,5 @@
 <template>
+<!-- Nav Item - Utilities Collapse Menu -->
     <div>
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities"
                     aria-expanded="true" aria-controls="collapseUtilities">
