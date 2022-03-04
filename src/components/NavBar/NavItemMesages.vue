@@ -1,5 +1,6 @@
 <template>
     <div>
+         <!-- Nav Item - Messages -->
         <a
             class="nav-link dropdown-toggle"
             href="#"

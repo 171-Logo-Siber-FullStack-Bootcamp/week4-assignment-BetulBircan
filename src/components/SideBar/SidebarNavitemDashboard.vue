@@ -1,4 +1,5 @@
 <template>
+<!-- Nav Item - Dashboard  -->
     <div>
          <a class="nav-link" href="index.html">
                     <i class="fas fa-fw fa-tachometer-alt"></i>

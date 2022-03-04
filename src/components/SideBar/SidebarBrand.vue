@@ -1,4 +1,5 @@
 <template>
+<!-- Sidebar Brand -->
     <div>
         <div class="sidebar-brand-icon rotate-n-15">
                 <i class="fas fa-laugh-wink"></i>

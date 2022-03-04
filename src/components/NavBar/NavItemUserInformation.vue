@@ -1,4 +1,5 @@
 <template>
+<!-- Nav Item - User Information -->
     <div>
         <a
                 class="nav-link dropdown-toggle"

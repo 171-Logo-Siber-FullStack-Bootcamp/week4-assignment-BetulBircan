@@ -1,4 +1,5 @@
 <template>
+<!-- Sidebar Heading -->
     <div>
          <div class="sidebar-heading">
                 Interface

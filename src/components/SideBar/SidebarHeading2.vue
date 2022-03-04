@@ -1,4 +1,5 @@
 <template>
+<!-- Heading2 -->
     <div>
         <div class="sidebar-heading">Addons</div>
     </div>

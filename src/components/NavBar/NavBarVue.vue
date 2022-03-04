@@ -8,6 +8,7 @@
 </template>
 
 <script>
+// Add the components
 import TopBarSearch from "./TopBarSearch.vue"
 import TopBarNavbar from "./TopBarNavbar.vue"
 

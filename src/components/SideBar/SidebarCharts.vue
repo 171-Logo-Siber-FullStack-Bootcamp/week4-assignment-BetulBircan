@@ -1,4 +1,5 @@
 <template>
+<!-- Sidebar Charts -->
     <div>
         <a class="nav-link" href="charts.html">
         <i class="fas fa-fw fa-chart-area"></i>
