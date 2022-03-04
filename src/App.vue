@@ -9,7 +9,7 @@
       <div id="content">
          <!-- Topbar -->
         <NavBarVue />
-        !-- Begin Page Content -->
+        <!-- Begin Page Content -->
         <PageContent />
       </div>
       <!-- Footer -->
