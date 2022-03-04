@@ -1,6 +1,6 @@
 <template>
 <!-- Sidebar Brand -->
-    <div>
+    
         <div class="sidebar-brand-icon rotate-n-15">
                 <i class="fas fa-laugh-wink"></i>
             </div>
@@ -8,7 +8,7 @@
                 SB Admin
                 <sup>2</sup>
             </div>
-    </div>
+    
 </template>
 
 <script>
