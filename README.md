@@ -168,4 +168,7 @@ export default {
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f405c8a49f1ac481d75573adfd391a26e04ff4b5
